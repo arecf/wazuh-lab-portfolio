@@ -73,7 +73,7 @@ High-level flow:
 
 ---
 
-## Troubleshooting notes (high value for portfolio)
+## Troubleshooting notes 
 
 - **Self-signed certificate warning** when opening the dashboard: expected in lab environments.
 - **Agent/Manager version mismatch:** resolved by aligning versions (agent must be <= manager).
