@@ -48,7 +48,7 @@ High-level flow:
 ## Evidence (Screenshots)
 
 ### Dashboard overview
-![Dashboard overview](evidence/screenshots/01-dashboard-overview.png)
+file:///home/arecf/evidence/screenshots/01-dashboard-overview.png
 
 ### Agent active
 ![Agent active](evidence/screenshots/02-agents-active.png)
