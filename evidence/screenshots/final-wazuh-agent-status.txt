@@ -1,0 +1,23 @@
+● wazuh-agent.service - Wazuh agent
+     Loaded: loaded (/lib/systemd/system/wazuh-agent.service; enabled; vendor preset: enabled)
+     Active: active (running) since Mon 2026-01-12 18:51:00 CST; 10min ago
+    Process: 127540 ExecStart=/usr/bin/env /var/ossec/bin/wazuh-control start (code=exited, status=0/SUCCESS)
+      Tasks: 38 (limit: 18856)
+     Memory: 828.4M
+        CPU: 45.406s
+     CGroup: /system.slice/wazuh-agent.service
+             ├─128196 /var/ossec/bin/wazuh-execd
+             ├─128207 /var/ossec/bin/wazuh-agentd
+             ├─128221 /var/ossec/bin/wazuh-syscheckd
+             ├─128231 /var/ossec/bin/wazuh-logcollector
+             └─128245 /var/ossec/bin/wazuh-modulesd
+
+ene 12 18:50:53 arecf systemd[1]: Starting Wazuh agent...
+ene 12 18:50:53 arecf env[127540]: Starting Wazuh v4.9.2...
+ene 12 18:50:54 arecf env[127540]: Started wazuh-execd...
+ene 12 18:50:55 arecf env[127540]: Started wazuh-agentd...
+ene 12 18:50:56 arecf env[127540]: Started wazuh-syscheckd...
+ene 12 18:50:57 arecf env[127540]: Started wazuh-logcollector...
+ene 12 18:50:58 arecf env[127540]: Started wazuh-modulesd...
+ene 12 18:51:00 arecf env[127540]: Completed.
+ene 12 18:51:00 arecf systemd[1]: Started Wazuh agent.
