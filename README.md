@@ -48,30 +48,30 @@ High-level flow:
 ## Evidence (Screenshots)
 
 ### Dashboard overview
-file:///home/arecf/evidence/screenshots/01-dashboard-overview.png
+
+<img width="1845" height="860" alt="01-dashboard-overview" src="https://github.com/user-attachments/assets/28d6c181-e7ef-4bcb-8799-0943bbd693a9" />
 
 ### Agent active
-![Agent active](evidence/screenshots/02-agents-active.png)
+<img width="929" height="572" alt="02-agents-active" src="https://github.com/user-attachments/assets/01189194-736e-4f4d-a3a0-f7612aa9aaff" />
+
 
 ### Threat Hunting overview
-![Threat Hunting overview](evidence/screenshots/03-threat-hunting-overview.png)
+<img width="687" height="293" alt="03-threat-hunting-overview" src="https://github.com/user-attachments/assets/a67d0078-ed38-4d40-a9b8-3dea6b9ed90a" />
+
+<img width="1854" height="970" alt="04-mitre-attack-mapping" src="https://github.com/user-attachments/assets/5784e740-4185-4e20-a424-26f08962a532" />
 
 ### MITRE ATT&CK mapping
-![MITRE mapping](evidence/screenshots/04-mitre-attack-mapping.png)
+<img width="1854" height="970" alt="04-mitre-attack-mapping" src="https://github.com/user-attachments/assets/63f70646-4034-4312-a39f-c004ef2845c8" />
+
 
 ### Authentication events (SSH / sudo)
-![Authentication events](evidence/screenshots/05-authentication-events.png)
+
+<img width="905" height="461" alt="05-authentication-events" src="https://github.com/user-attachments/assets/497d22d8-0714-45c7-8ad5-03a20cbdc4de" />
 
 ### File Integrity Monitoring (FIM) alert (Level 7)
-![FIM alert](evidence/screenshots/06-fim-integrity-alert.png)
+<img width="468" height="924" alt="06-fim-integrity-alert" src="https://github.com/user-attachments/assets/7e85923e-c460-498b-a5a3-0a21f5bfc618" />
 
-### FIM alert details
-![FIM details](evidence/screenshots/07-fim-alert-details.png)
 
-### Network monitoring / ports alert
-![Network alert](evidence/screenshots/08-network-monitoring-alert.png)
-
----
 
 ## Troubleshooting notes 
 
